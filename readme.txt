@@ -1,3 +1,17 @@
+课程：b站删除了
+https://www.youtube.com/watch?v=XdKv5uwEk5A&t=4734s
+官网：
+https://www.dappuniversity.com/
+
+How To Build A Blockchain App  https://www.youtube.com/watch?v=VH9Q2lf2mNo
+Build Your First Blockchain Application https://www.youtube.com/watch?v=rzvk2kdjr2I 
+The Ultimate Ethereum Dapp Tutorial https://www.youtube.com/watch?v=3681ZYbDSSk
+Code Your Own Cryptocurrency on Ethereum  https://www.youtube.com/watch?v=XdKv5uwEk5A
+
+四个视频下载到了百度盘
+https://pan.baidu.com/disk/main#/index?category=all&path=%2F1TMP%2Fyoutube
+----------------------------------------------------------------------
+
 步骤
 创建React应用 `create-react-app`
 初始化Truffle配置文件 `truffle init` 或者 `truffle unbox metacoin`
